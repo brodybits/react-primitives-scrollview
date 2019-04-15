@@ -1,0 +1,8 @@
+{
+  "name": "react-primitives-scrollview",
+  "version": "0.0.1-dev",
+  "description": "Primitive ScrollView component for react-native and react-native-web",
+  "main": "index.js",
+  "author": "Christopher J. Brody <chris@brody.consulting>",
+  "license": "MIT"
+}
